@@ -65,6 +65,20 @@
       "description": "Build a REST API using FastAPI and Pydantic models for request validation",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-05-21"
+    },
+    {
+      "id": "python-database-operations",
+      "title": "Python Database Operations",
+      "description": "Learn to connect to SQLite databases, perform CRUD operations, and manage data persistence with Python's sqlite3 module.",
+      "path": "assignments/python-database-operations",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
